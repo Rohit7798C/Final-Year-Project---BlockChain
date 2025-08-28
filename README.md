@@ -50,7 +50,8 @@ To get started with this project,
 6. To perform transactions, setup your Metamask wallet and connect your wallet to the Sepolia Tesnet Network and transact using SepoliaETH which can be obtained for free on Seplolia Faucet (https://sepoliafaucet.com/).
 
 For more information, you can view our user manual:
-[View User Manual]([user-manual.pdf](https://github.com/user-attachments/files/22018411/user-manual.pdf))
+[View User Manual][user-manual.pdf](https://github.com/user-attachments/files/22018411/user-manual.pdf)
+
 
 
 
